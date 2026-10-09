@@ -2,7 +2,7 @@
 At RCC, I am majoring in Environmental Science and would like to use this GIS class to make a difference and understand better of how I can help my community through a way I never thought was possible
 ---
 ## New York's Covid Cases by ZIP Code
-The map of New York shows colors of different intensity, the darker the color, the more cases of covid that were reported in each zip code (images/MidtermMap1.png)
+The map of New York shows colors of different intensity, the darker the color, the more cases of covid that were reported in each zip code images/MidtermMap1.png
 **Question:** With my map, it's able to answer questions like "What were the Covid-19 rates like in a place so dense and populated like New York?"
 **Data:** Covid-19 cases, this work was published by me in 2026, I obtained this data from the ArcGISPro servers.
 **Method:** While making this, I accessed the attribute table which allowed me to get more insight on the data I had in front of me. I sorted through the data and organized it by populatation, the count of covid cases, and the rate of covid rates. I then proceeded to apply this data onto the map by using a color scheme of a gradient scale
